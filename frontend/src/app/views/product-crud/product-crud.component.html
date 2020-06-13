@@ -1,1 +1,13 @@
-<p>product-crud works!</p>
+<mat-card class="mat-elevantion-z3">
+    <mat-card-title class="title">Cadastro de Produto !</mat-card-title>
+    <mat-card-subtitle class="subtitle">
+        <p>Cadastrar novo produto na base de dados !</p>
+        <button mat-raised-button (click)="navigateToProductCreate()" color="primary">
+            Novo Produto
+        </button>
+    </mat-card-subtitle>
+</mat-card>
+
+<mat-card class="mat-elevantion-z3 margin">
+    <app-product-read></app-product-read>
+</mat-card>

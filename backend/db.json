@@ -24,6 +24,21 @@
       "name": "Geladeira",
       "price": 522.89,
       "id": 5
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 6
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 7
+    },
+    {
+      "name": "Isadora",
+      "price": "100",
+      "id": 8
     }
   ]
 }
