@@ -11,7 +11,7 @@ import { map, catchError } from 'rxjs/operators';
 })
 export class ProductService {
 
-  baseURL = "http://localhost:3001/products";
+  baseURL = "https://angular-lopes.herokuapp.com/products";
 
   constructor(private snackBar: MatSnackBar, private http: HttpClient) {}
 
