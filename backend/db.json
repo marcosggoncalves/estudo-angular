@@ -1,44 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta Bic Preta",
-      "price": 5.89
+      "name": "Teste",
+      "price": "1000",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
-    },
-    {
-      "id": 3,
-      "name": "Samsung  S20+",
-      "price": 5000.89
-    },
-    {
-      "id": 4,
-      "name": "Geladeira",
-      "price": 522.89
-    },
-    {
-      "name": "Geladeira",
-      "price": 522.89,
-      "id": 5
-    },
-    {
-      "name": "Produto Teste",
-      "price": 125.98,
-      "id": 6
-    },
-    {
-      "name": "Produto Teste",
-      "price": 125.98,
-      "id": 7
-    },
-    {
-      "name": "Isadora",
-      "price": "100",
-      "id": 8
+      "name": "iiiiii",
+      "price": "iii",
+      "id": 2
     }
   ]
 }

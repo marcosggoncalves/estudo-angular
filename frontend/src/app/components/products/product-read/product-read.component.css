@@ -1,3 +1,15 @@
 table{
     width: 100%;
 }
+
+.edit > i{
+    color: #d9cd26;
+}
+
+.delete > i{
+    color: rgb(218, 8, 8);
+}
+
+i{
+    padding-left: 20px;
+}
